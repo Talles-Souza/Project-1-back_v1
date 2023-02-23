@@ -1,0 +1,36 @@
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Domain\obj\Debug\net6.0\ref\Domain.dll

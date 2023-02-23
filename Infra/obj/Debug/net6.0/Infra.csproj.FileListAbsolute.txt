@@ -1,0 +1,61 @@
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Infra\bin\Debug\net6.0\Infra.deps.json
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Infra\bin\Debug\net6.0\Infra.dll
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Infra\bin\Debug\net6.0\Infra.pdb
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Infra\bin\Debug\net6.0\Application.dll
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Infra\bin\Debug\net6.0\Data.dll
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Infra\bin\Debug\net6.0\Domain.dll
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Infra\bin\Debug\net6.0\Application.pdb
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Infra\bin\Debug\net6.0\Data.pdb
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Infra\bin\Debug\net6.0\Domain.pdb
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Infra\obj\Debug\net6.0\Infra.csproj.AssemblyReference.cache
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Infra\obj\Debug\net6.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Infra\obj\Debug\net6.0\Infra.AssemblyInfoInputs.cache
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Infra\obj\Debug\net6.0\Infra.AssemblyInfo.cs
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Infra\obj\Debug\net6.0\Infra.csproj.CoreCompileInputs.cache
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Infra\obj\Debug\net6.0\Infra.csproj.CopyComplete
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Infra\obj\Debug\net6.0\Infra.dll
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Infra\obj\Debug\net6.0\refint\Infra.dll
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Infra\obj\Debug\net6.0\Infra.pdb
+C:\Users\talles\Desktop\Projeto 1\WaterControl\Infra\obj\Debug\net6.0\ref\Infra.dll
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Infra\bin\Debug\net6.0\Infra.deps.json
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Infra\bin\Debug\net6.0\Infra.dll
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Infra\bin\Debug\net6.0\Infra.pdb
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Infra\bin\Debug\net6.0\Application.dll
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Infra\bin\Debug\net6.0\Data.dll
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Infra\bin\Debug\net6.0\Domain.dll
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Infra\bin\Debug\net6.0\Application.pdb
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Infra\bin\Debug\net6.0\Data.pdb
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Infra\bin\Debug\net6.0\Domain.pdb
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Infra\obj\Debug\net6.0\Infra.csproj.AssemblyReference.cache
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Infra\obj\Debug\net6.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Infra\obj\Debug\net6.0\Infra.AssemblyInfoInputs.cache
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Infra\obj\Debug\net6.0\Infra.AssemblyInfo.cs
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Infra\obj\Debug\net6.0\Infra.csproj.CoreCompileInputs.cache
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Infra\obj\Debug\net6.0\Infra.csproj.CopyComplete
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Infra\obj\Debug\net6.0\Infra.dll
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Infra\obj\Debug\net6.0\refint\Infra.dll
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Infra\obj\Debug\net6.0\Infra.pdb
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Infra\obj\Debug\net6.0\ref\Infra.dll
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Infra\bin\Debug\net6.0\Infra.runtimeconfig.json
+C:\Users\talles\Desktop\Projeto 1\PersonalControl\Infra\obj\Debug\net6.0\Infra.genruntimeconfig.cache
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Infra\bin\Debug\net6.0\Infra.deps.json
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Infra\bin\Debug\net6.0\Infra.runtimeconfig.json
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Infra\bin\Debug\net6.0\Infra.dll
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Infra\bin\Debug\net6.0\Infra.pdb
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Infra\bin\Debug\net6.0\Application.dll
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Infra\bin\Debug\net6.0\Data.dll
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Infra\bin\Debug\net6.0\Domain.dll
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Infra\bin\Debug\net6.0\Application.pdb
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Infra\bin\Debug\net6.0\Data.pdb
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Infra\bin\Debug\net6.0\Domain.pdb
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Infra\obj\Debug\net6.0\Infra.csproj.AssemblyReference.cache
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Infra\obj\Debug\net6.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Infra\obj\Debug\net6.0\Infra.AssemblyInfoInputs.cache
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Infra\obj\Debug\net6.0\Infra.AssemblyInfo.cs
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Infra\obj\Debug\net6.0\Infra.csproj.CoreCompileInputs.cache
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Infra\obj\Debug\net6.0\Infra.csproj.CopyComplete
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Infra\obj\Debug\net6.0\Infra.dll
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Infra\obj\Debug\net6.0\refint\Infra.dll
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Infra\obj\Debug\net6.0\Infra.pdb
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Infra\obj\Debug\net6.0\Infra.genruntimeconfig.cache
+C:\Users\talle\OneDrive\Área de Trabalho\Projects\BackEnd-C#\ControlProject\Infra\obj\Debug\net6.0\ref\Infra.dll
